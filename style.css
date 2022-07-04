@@ -1,0 +1,31 @@
+* {
+    font-family: Arial;
+    font-size: 20px;
+}
+body{
+    background-color:rgb(150, 153, 160);
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    position: absolute;
+    right: 250px;
+    top:70px;
+    position: fixed;
+}
+.erro{
+    position: absolute;
+    right: 80px;
+    top:400px;
+    position: fixed;
+    background-color: red;
+}
+.topo{
+    background-color: rgb(70, 173, 214); 
+    width: 100%;
+    font-size: 50px;
+   
+}
+tr{
+    text-align: center;
+}
